@@ -36,10 +36,7 @@ Generate strong, secure, and random passwords with just one click! This **Random
 ## 📌 Live Demo
 🔗 [Check it out here](#) *(https://amit81082.github.io/Random_Password_Generator/)*
 
-## 🏗️ Future Enhancements
-✨ Add a password strength indicator.
-✨ Dark mode support.
-✨ Save generated passwords securely.
+
 
 ## ⭐ Give Your Feedback!
 Loved this project? 🌟 Give it a **Star** on GitHub!
