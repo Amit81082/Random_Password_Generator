@@ -13,7 +13,11 @@ Generate strong, secure, and random passwords with just one click! This **Random
 ✅ **Responsive Design** – Works on all devices.
 
 ## 📸 Preview
-![Password Generator](https://via.placeholder.com/800x400.png?text=Random+Password+Generator)
+![Password Generator]
+![image](https://github.com/user-attachments/assets/c5a0449d-ced1-4edb-a2d7-4eb0d847b832)
+![image](https://github.com/user-attachments/assets/c27a730e-749a-47ca-aa3a-3a92ace03ca2)
+
+
 
 ## 🛠️ Tech Stack
 - **HTML** – Structure of the application.
@@ -30,7 +34,7 @@ Generate strong, secure, and random passwords with just one click! This **Random
 4. Click **Generate** and copy your secure password!
 
 ## 📌 Live Demo
-🔗 [Check it out here](#) *(Add your live demo link if available)*
+🔗 [Check it out here](#) *(https://amit81082.github.io/Random_Password_Generator/)*
 
 ## 🏗️ Future Enhancements
 ✨ Add a password strength indicator.
